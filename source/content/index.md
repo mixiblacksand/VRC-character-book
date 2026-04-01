@@ -1,9 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Mixi's 3D Art Notes
 ---
 
-Hello world!
-
-Write some words here!
-
-Just a quick test to make sure the Action is working.
+This is a repository of stuff I've learned about 3D art, mostly in Blender, that I'd like to share with everyone -- including future me.
