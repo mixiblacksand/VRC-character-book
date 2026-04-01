@@ -25,6 +25,7 @@ The primary way I personally control the camera in Blender is with the middle mo
 ---
 
 If you have a numpad, you can use these controls. If you don't, there is an option you can enable to make the main keyboard keys mimic these functions:
+
 ![[Pasted image 20260331111807.png]]
 
 - `5`: Toggle [[#Perspective and Orthographic]]
@@ -45,7 +46,9 @@ The last three options here are particularly useful, so you may wish to toggle o
 ---
 
 In the upper right of the 3D viewport, you'll see this thing:
+
 ![[Pasted image 20260331112310.png]]
+
 - By clicking and dragging on the axis ball, you can orbit the camera.
 - Clicking any of the axis label circles will snap to that view.
 - Click and hold the magnifying glass to zoom.
@@ -55,6 +58,7 @@ In the upper right of the 3D viewport, you'll see this thing:
 	- When viewing through the camera, the grid changes to a lock icon. This will let you use your camera controls to move the camera object.
 ## Perspective and Orthographic
 If you're not familiar with these terms, in a perspective camera things that are farther away are smaller, while in an orthographic one everything is the same size. Orthographic view is most useful when the camera is snapped to the sides or top of the scene, giving us a 'blueprint view.'
+
 ![[Pasted image 20260331113810.png]]
 ## Walking and Flying
 
