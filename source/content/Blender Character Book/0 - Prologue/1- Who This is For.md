@@ -1,0 +1,7 @@
+This document is aimed at people with little or no Blender or Unity experience who are interested in learning a set of skills that allow them to make relatively simple character models for VRChat. 
+
+That isn't to say other people won't find use in it. I'm attempting to design this as both a tutorial series and a reference manual. Chapters will be broken up into lecture on tools and concepts and exercises where they are put to use.
+
+People express a lot of negative emotions around learning Blender. Not just 'I don't have time,' but things like 'Blender gives me anxiety' or 'Blender makes me feel dumb.' I think the root cause of much of this is information overload. Not only does Blender itself present you with a screen full of inscrutable little buttons, but if you go on YouTube and try to find a tutorial you're liable to end up in front of a 30 minute plus lecture you can't absorb.
+
+To that end, I'm making this as book with video accompaniment instead. I'll try to keep each section short and to the point. I encourage you to take frequent breaks. Either do something else or play around with whatever new knowledge you've gleaned. I've never enjoyed slavishly following every step of a tutorial. Mess around and break things. Just save your progress before you do!
