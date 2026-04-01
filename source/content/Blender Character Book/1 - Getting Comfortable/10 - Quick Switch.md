@@ -1,0 +1,1 @@
+Often when you're working in Edit mode or other non-object modes, you'll want to quickly edit a different object. Instead of going back to Object mode, selecting a new object, then going back into Edit mode, you can hover your mouse over another object and press `Alt-Q`.
