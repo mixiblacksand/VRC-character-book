@@ -1,3 +1,9 @@
+### Video : Layouts
+
+![](https://youtu.be/yD9ae6ZsvuI)
+
+---
+
 By default, Blender should open to this scene:
 ![[Pasted image 20260331105126.png]]
 

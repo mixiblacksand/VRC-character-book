@@ -1,3 +1,6 @@
+
+Our goal here is to create a bipedal character in Blender, bring it into Unity, and make it a functional avatar in VRChat.
+
 We'll be using the following software:
 	Blender, our modeling and texturing software
 		https://www.blender.org/
@@ -15,4 +18,6 @@ If you don't have an idea, you can follow along with my examples for each exerci
 You DON'T need a clean reference sheet of the character you're making. We'll talk about using reference, but you don't need a complete, finished turnaround to follow this guide.
 
 You also don't need a tablet. We'll be sculpting and painting entirely with the mouse. If you have a tablet you're welcome to use it, but I will not be assuming you have one.
+
+Understand that this guide represents my opinions and biases based on being a hobby 3D artist for years. There are a multitude of ways to tackle any problem in 3D art. I'm going to intentionally limit the number of them I present in order to make the guide more digestible for a first time learner. This is only meant to be a stepping stone.
 

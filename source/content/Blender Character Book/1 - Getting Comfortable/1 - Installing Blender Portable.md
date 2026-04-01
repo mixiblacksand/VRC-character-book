@@ -1,7 +1,6 @@
 To make sure everyone starts from the same place, we're going to begin by creating a self-contained version of Blender. This will have its own config file that does not affect any existing installation you may have or want to make in the future. 
 
 This tutorial is being written for Blender 5.1. We will be using some features new to 5.1, so please make sure you are using at least that version if not newer.
-
 ## Download and Install
 
 Go to <http://blender.org> and click the Download Blender button. Click on the 'macOS, Linux, and other versions button.' Choose the Portable zip.
@@ -11,6 +10,10 @@ Download and extract the zip to wherever is convenient for you. Browse to the ex
 ![[Pasted image 20260331100838.png]]
 
 ## Configure
+
+![](https://youtu.be/XXgOQnvUiEU)
+
+---
 
 Upon opening Blender the first time, it will present some options. Accept the defaults.
 ![[Pasted image 20260331104331.png]]

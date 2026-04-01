@@ -1,5 +1,12 @@
 You have a few options for how to tackle navigating the scene in Blender.
 ## Middle Mouse Navigation
+
+### Video: Mouse Navigation
+
+![](https://youtu.be/qcTudRGFmjU)
+
+---
+
 The primary way I personally control the camera in Blender is with the middle mouse button (MMB):
 
 - `Drag MMB` orbits.
@@ -10,6 +17,13 @@ The primary way I personally control the camera in Blender is with the middle mo
 	- Drag MMB first, then hold Alt: orbit the camera, snapping to key points as you near them.
 	- Hold Alt, flick the mouse, and press MMB: Quickly snaps the camera to side/top/bottom views. I use this extensively, but it may not be natural to everyone. 
 ## Numpad Navigation
+
+### Video: Numpad Navigation
+
+![](https://youtu.be/qufICRShCEA)
+
+---
+
 If you have a numpad, you can use these controls. If you don't, there is an option you can enable to make the main keyboard keys mimic these functions:
 ![[Pasted image 20260331111807.png]]
 
@@ -23,6 +37,13 @@ If you have a numpad, you can use these controls. If you don't, there is an opti
 
 The last three options here are particularly useful, so you may wish to toggle on 'Emulate Numpad' if you do not have one.
 ## The Gizmo
+
+### Video: The Gizmo
+
+![](https://youtu.be/GdHXQCl_w3w)
+
+---
+
 In the upper right of the 3D viewport, you'll see this thing:
 ![[Pasted image 20260331112310.png]]
 - By clicking and dragging on the axis ball, you can orbit the camera.
@@ -36,6 +57,13 @@ In the upper right of the 3D viewport, you'll see this thing:
 If you're not familiar with these terms, in a perspective camera things that are farther away are smaller, while in an orthographic one everything is the same size. Orthographic view is most useful when the camera is snapped to the sides or top of the scene, giving us a 'blueprint view.'
 ![[Pasted image 20260331113810.png]]
 ## Walking and Flying
+
+### Video: Walking and Flying
+
+![](https://youtu.be/nLpSxWTBCVs)
+
+---
+
 You can also navigate the camera WASD style. Press `Shift-Tilde` to enable this.
 * `WASD` moves
 * `E` and `Q` raise and lower you
