@@ -1,3 +1,9 @@
+### Video: Select, Delete, Add
+
+![](https://youtu.be/H8Ycy28JCTU)
+
+---
+
 By default, Blender loads up this scene:
 ![[Pasted image 20260331114557.png]]
 ## Selecting
@@ -27,6 +33,12 @@ Now press `Shift-A`. A menu pops up with things you can add to the scene. Click 
 ![[Pasted image 20260331130415.png]]
 
 ## The 3D Cursor
+### Video:  The 3D Cursor
+
+![](https://youtu.be/c3Gc1EWMXEY)
+
+---
+
 ```
 Move 3D Cursor to Mouse Cursor : Shift-RMB
 Move 3D Cursor Menu : Shift-S
@@ -36,6 +48,12 @@ The location the new mesh was created was determined by the _3D Cursor_. That's 
 
 We can also move the 3D cursor around with `Shift-S`. Press it now and select 'Cursor to World Origin' to return it to its default location.
 ## The Redo Menu
+### Video: Redo Menu
+
+![](https://youtu.be/M5wF1EpcChg)
+
+---
+
 ```
 Redo Menu : F9
 ```

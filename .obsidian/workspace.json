@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Blender Character Book/1 - Getting Comfortable/3 - The Camera.md",
+                "file": "source/content/Blender Character Book/1 - Getting Comfortable/4 - Working with Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - The Camera"
+              "title": "4 - Working with Objects"
             }
           }
         ]
@@ -196,11 +196,13 @@
   },
   "active": "8a11db6dbcb3bd77",
   "lastOpenFiles": [
-    "source/content/Blender Character Book/1 - Getting Comfortable/4 - Working with Objects.md",
     "source/content/Blender Character Book/1 - Getting Comfortable/3 - The Camera.md",
     "source/content/Blender Character Book/1 - Getting Comfortable/2 - UI Layouts in Blender.md",
     "source/content/Blender Character Book/1 - Getting Comfortable/1 - Installing Blender Portable.md",
     "source/content/Blender Character Book/0 - Prologue/1 - Goals.md",
+    "source/content/Blender Character Book/1 - Getting Comfortable/5 - Grab, Rotate, and Scale.md",
+    "source/content/Blender Character Book/1 - Getting Comfortable/6 - Object Properties.md",
+    "source/content/Blender Character Book/1 - Getting Comfortable/4 - Working with Objects.md",
     "source/content/Blender Character Book/0 - Prologue/3 - What You Do and Don't Need.md",
     "source/content/Blender Character Book/0 - Prologue/1- Who This is For.md",
     "source/content/index.md",
