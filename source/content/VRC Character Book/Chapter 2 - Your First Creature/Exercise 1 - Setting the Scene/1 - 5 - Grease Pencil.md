@@ -1,4 +1,4 @@
-![](https://youtu.be/ap6bnTfPGaQ?t=829)
+[Video: Grease Pencil](https://youtu.be/ap6bnTfPGaQ?t=829)
 
 ---
 

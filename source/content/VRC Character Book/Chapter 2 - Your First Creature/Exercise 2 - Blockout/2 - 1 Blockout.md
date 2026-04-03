@@ -1,4 +1,4 @@
-![](https://youtu.be/ap6bnTfPGaQ?t=1134)
+[Video: Blockout](https://youtu.be/ap6bnTfPGaQ?t=1134)
 
 ---
 

@@ -1,4 +1,4 @@
-![](https://youtu.be/ap6bnTfPGaQ?t=1021)
+[Video: More Sculpting Brushes](https://youtu.be/ap6bnTfPGaQ?t=1021)
 
 ---
 

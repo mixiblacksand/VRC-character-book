@@ -1,4 +1,4 @@
-![](https://youtu.be/ap6bnTfPGaQ?t=1635)
+[Video: Cleanup](https://youtu.be/ap6bnTfPGaQ?t=1635)
 
 ---
 
