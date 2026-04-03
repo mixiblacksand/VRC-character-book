@@ -4,14 +4,15 @@ This is document is designed to be a textbook for people trying to learn a littl
 I hope that this hybrid book/video format helps some folks that have struggled with the existing video tutorial environment. I'll try to keep segments brief so you can take frequent breaks.
 # What You'll Need
 We'll be using the following software:
-	Blender, our modeling and texturing software
-		https://www.blender.org/
-	Krita, to assist us in texturing
-		https://krita.org/en/
-	ALCOM, a FOSS alternative to VRChat Creator Companion
-		https://vrc-get.anatawa12.com/en/alcom/
-	Unity, which you will install in the process of installing ALCOM.
-	VRChat with an account that has upload permissions.
+
+* Blender, our modeling and texturing software
+	* https://www.blender.org/
+* Krita, to assist us in texturing
+	* https://krita.org/en/
+* ALCOM, a FOSS alternative to VRChat Creator Companion
+	* https://vrc-get.anatawa12.com/en/alcom/
+* Unity, which you will install in the process of installing ALCOM.
+* VRChat with an account that has upload permissions.
 
 While I'll be using Windows 11, this selection of software should work on Linux as well.
 
