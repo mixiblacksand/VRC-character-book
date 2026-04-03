@@ -1,4 +1,4 @@
-![](https://youtu.be/ap6bnTfPGaQ)
+![](https://youtu.be/ap6bnTfPGaQ?t=90)
 
 ---
 
