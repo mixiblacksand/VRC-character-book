@@ -5,7 +5,7 @@ What we can do in the 3D viewport depends what mode we are in.
 # Object Mode
 Object Mode is the default mode. We use this mode for:
 * Adding and removing objects
-* Transforming objects in [world space](Global%20vs%20Local%20Space.md)
+* Transforming objects in [world space](VRC%20Character%20Book/Chapter%202%20-%20Your%20First%20Creature/Reference%20Topics/Global%20vs%20Local%20Space.md)
 * Adding and applying [[modifiers]]
 # Edit Mode
 We can get to Edit Mode quickly by pressing `Tab`. Edit mode allows us to modify mesh data directly.

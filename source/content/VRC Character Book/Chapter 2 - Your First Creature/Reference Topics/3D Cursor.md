@@ -11,4 +11,4 @@ We can use the 3D cursor as a temporary reference point for transformations by s
 ![](Pasted%20image%2020260403125859.png)
 _Rotating around the 3D cursor, not the object origin._
 
-It's can also be used with [Grease Pencil](Grease%20Pencil.md) to define where the drawing plane is.
+It's can also be used with [Grease Pencil](VRC%20Character%20Book/Chapter%202%20-%20Your%20First%20Creature/Reference%20Topics/Grease%20Pencil.md) to define where the drawing plane is.

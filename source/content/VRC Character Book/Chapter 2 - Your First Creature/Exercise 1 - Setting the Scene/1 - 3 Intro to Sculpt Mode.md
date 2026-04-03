@@ -4,8 +4,8 @@
 
 * Renaming
 * Intro to sculpt mode
-* [Voxel Remesh](../Reference%20Topicss/Voxel%20Remesh.md)
-* [Mirror with Bisect](../Reference%20Topicss/Mirror%20Modifier.md#Bisect)
+* [Voxel Remesh](VRC%20Character%20Book/Chapter%202%20-%20Your%20First%20Creature/Reference%20Topics/Voxel%20Remesh.md)
+* [Mirror with Bisect](VRC%20Character%20Book/Chapter%202%20-%20Your%20First%20Creature/Reference%20Topics/Mirror%20Modifier.md#Bisect)
 * Duplicating Meshes
 	* `Shift-D` to duplicate
 * Quick switch objects

@@ -2,5 +2,5 @@
 
 ---
 
-* [Grease Pencil](../Reference%20Topicss/Grease%20Pencil.md) on surface or 3D Cursor
-* [3D Cursor](../Reference%20Topicss/3D%20Cursor.md)
+* [Grease Pencil](VRC%20Character%20Book/Chapter%202%20-%20Your%20First%20Creature/Reference%20Topics/Grease%20Pencil.md) on surface or 3D Cursor
+* [3D Cursor](VRC%20Character%20Book/Chapter%202%20-%20Your%20First%20Creature/Reference%20Topics/3D%20Cursor.md)

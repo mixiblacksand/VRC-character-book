@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VRC Character Book/Chapter 1 - Starting Up/2 - Installing Blender Portable.md",
+                "file": "VRC Character Book/Chapter 1 - Starting Up/4 - Up Next.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Installing Blender Portable"
+              "title": "4 - Up Next"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VRC Character Book/Chapter 1 - Starting Up/2 - Installing Blender Portable.md",
+                "file": "VRC Character Book/Chapter 1 - Starting Up/4 - Up Next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - Installing Blender Portable"
+              "title": "Backlinks for 4 - Up Next"
             }
           },
           {
@@ -170,21 +170,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "VRC Character Book/Chapter 1 - Starting Up/1 - Overview.md",
+    "VRC Character Book/Chapter 1 - Starting Up/4 - Up Next.md",
+    "VRC Character Book/Chapter 1 - Starting Up/2 - Installing Blender Portable.md",
     "VRC Character Book/Chapter 1 - Starting Up/3 - Housekeeping.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 1 - Setting the Scene/1 - 1 Basic Transforms.md",
-    "VRC Character Book/Chapter 1 - Starting Up/2 - Installing Blender Portable.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 1 - Setting the Scene/1 - 3 Intro to Sculpt Mode.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 1 - Setting the Scene/1 - 2 Mirror.md",
-    "VRC Character Book/Chapter 1 - Starting Up/1 - Overview.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topicss/Scene Modes.md",
+    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Scene Modes.md",
     "consistency-report.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topicss/Voxel Remesh.md",
+    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Voxel Remesh.md",
     "index.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/1 - Overview.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topicss/Modifier Stack.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topicss/Mirror Modifier.md",
+    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Modifier Stack.md",
+    "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Mirror Modifier.md",
     "Pasted image 20260403170618.png",
     "Pasted image 20260403130751.png",
     "Pasted image 20260403112550.png",
