@@ -1,4 +1,4 @@
-[Video: Housekeeping](https://youtu.be/ap6bnTfPGaQ?t=90)
+[Video: Housekeeping](https://youtu.be/ap6bnTfPGaQ?t=0)
 
 ---
 

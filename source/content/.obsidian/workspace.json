@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VRC Character Book/Chapter 2 - Your First Creature/Exercise 2 - Blockout/2 - 2 Cleanup.md",
+                "file": "VRC Character Book/Chapter 1 - Starting Up/3 - Housekeeping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - 2 Cleanup"
+              "title": "3 - Housekeeping"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VRC Character Book/Chapter 2 - Your First Creature/Exercise 2 - Blockout/2 - 2 Cleanup.md",
+                "file": "VRC Character Book/Chapter 1 - Starting Up/3 - Housekeeping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - 2 Cleanup"
+              "title": "Backlinks for 3 - Housekeeping"
             }
           },
           {
@@ -172,6 +172,7 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 2 - Blockout/2 - 2 Cleanup.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 2 - Blockout/2 - 1 Blockout.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 1 - Setting the Scene/1 - 6 More Sculpting Brushes.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 1 - Setting the Scene/1 - 5 - Grease Pencil.md",
@@ -182,7 +183,6 @@
     "VRC Character Book/Chapter 1 - Starting Up/1 - Overview.md",
     "VRC Character Book/Chapter 1 - Starting Up/2 - Installing Blender Portable.md",
     "VRC Character Book/Chapter 1 - Starting Up/3 - Housekeeping.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 2 - Blockout/2 - 2 Cleanup.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/0 - Retopo.md",
     "VRC Character Book/Chapter 1 - Starting Up/4 - Up Next.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Scene Modes.md",
