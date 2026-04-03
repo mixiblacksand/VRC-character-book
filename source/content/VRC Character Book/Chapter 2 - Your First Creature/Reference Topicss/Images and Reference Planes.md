@@ -9,7 +9,7 @@ Most of the time you'll be working from some kind of reference, either for a ful
 7. Click the folder icon to load more images.
 8. Use the dropdown next to the image name to switch images.
 
-![[Pasted image 20260402175211.png]]
+![](Attachments/Pasted%20image%2020260402175211.png)
 _Blender with an Image Editor next to the 3D Viewport._
 
 We can also place images directly in the scene to work over.
@@ -18,5 +18,5 @@ We can also place images directly in the scene to work over.
 2. Choose Image > Reference.
 3. The reference image will appear facing the viewport camera. If this isn't the angle you want. you can move, rotate, and scale the plane.
 
-![[Pasted image 20260402175654.png]]
+![](Attachments/Pasted%20image%2020260402175654.png)
 _A scene with reference planes aligned to the X and Y axes._

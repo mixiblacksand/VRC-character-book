@@ -2,7 +2,7 @@
 
 ---
 
-* [[Modifier Stack|Modifiers]]: [[Mirror Modifier]]
+* [Modifiers](../Reference%20Topicss/Modifier%20Stack.md): [Mirror Modifier](../Reference%20Topicss/Mirror%20Modifier.md)
 * Significance of Object Origin
 * Empties and using them with Mirror
-* [[Basic Transform Controls#Free Rotation|Free Rotation]]
+* [Free Rotation](../Reference%20Topicss/Basic%20Transform%20Controls.md#Free%20Rotation)

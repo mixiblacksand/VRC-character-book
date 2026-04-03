@@ -1,11 +1,11 @@
 What we can do in the 3D viewport depends what mode we are in.
 
-![[Pasted image 20260403130249.png]]
+![](Attachments/Pasted%20image%2020260403130249.png)
 
 # Object Mode
 Object Mode is the default mode. We use this mode for:
 * Adding and removing objects
-* Transforming objects in [[Global vs Local Space|world space]]
+* Transforming objects in [world space](Global%20vs%20Local%20Space.md)
 * Adding and applying [[modifiers]]
 # Edit Mode
 We can get to Edit Mode quickly by pressing `Tab`. Edit mode allows us to modify mesh data directly.
