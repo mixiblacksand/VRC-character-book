@@ -1,4 +1,4 @@
-[Video: Intro to Sculpt Mode](https://youtu.be/ap6bnTfPGaQ?t=280)
+[Video: Intro to Sculpt Mode](https://youtu.be/ap6bnTfPGaQ?t=443)
 
 ---
 
