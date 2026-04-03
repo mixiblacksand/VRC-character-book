@@ -11,8 +11,8 @@ Found at the top of the 3D viewport in Draw Mode, this setting controls where yo
 ### Surface
 Surface mode lets us draw strokes that stick to the surface of any mesh we draw over. Great for brainstorming details on sculpts.
 
-![](Attachments/Pasted%20image%2020260403113252.png)
+![](Pasted%20image%2020260403113252.png)
 ### 3D Cursor
 Your stroke will be drawn on the plane of the viewport camera, at the depth of the 3D cursor. Good for sketching out concepts and notes.
 
-![](Attachments/Pasted%20image%2020260403113503.png)
+![](Pasted%20image%2020260403113503.png)

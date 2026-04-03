@@ -1,6 +1,6 @@
 What we can do in the 3D viewport depends what mode we are in.
 
-![](Attachments/Pasted%20image%2020260403130249.png)
+![](Pasted%20image%2020260403130249.png)
 
 # Object Mode
 Object Mode is the default mode. We use this mode for:
