@@ -4,6 +4,7 @@ We're going to want two small addons in this process.
 Go to Edit > Preferences > Get Extensions. In the search bar, search for 'F2' and install it, then 'LoopTools' and install it.
 # F2
 F2 does one thing that is incredibly useful. If we have a corner vert like this and press F, it will fill in the next quad in the sequence:
+
 ![](Pasted%20image%2020260403224436.png)
 
 ![](Pasted%20image%2020260403224447.png)
@@ -19,6 +20,7 @@ LoopTools has a few useful functions, but a big one for us is the Relax function
 
 # Retopo Overlay
 While in Edit Mode, the overlay menu has a Retopology option:
+
 ![](Pasted%20image%2020260403225859.png)
 
 This makes the mesh you're working on visible through other meshes, up to the distance you set. You will likely find the default distance too small, so turn it up until you have a good view of the side you're working on without seeing the back of the mesh as well.
