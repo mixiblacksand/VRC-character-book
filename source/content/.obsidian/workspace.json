@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips n Tricks/Organize Body and Clothing Unwraps with Mio3 UV.md",
+                "file": "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/3 - 1 Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organize Body and Clothing Unwraps with Mio3 UV"
+              "title": "3 - 1 Getting Started"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips n Tricks/Organize Body and Clothing Unwraps with Mio3 UV.md",
+                "file": "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/3 - 1 Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Organize Body and Clothing Unwraps with Mio3 UV"
+              "title": "Backlinks for 3 - 1 Getting Started"
             }
           },
           {
@@ -172,12 +172,24 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Tips n Tricks/E Topology Smooth.md",
-    "Pasted image 20260403185254.png",
+    "Pasted image 20260403225859.png",
+    "Pasted image 20260403225344.png",
+    "Pasted image 20260403225305.png",
+    "Pasted image 20260403224447.png",
+    "Pasted image 20260403224436.png",
+    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/3 - 0 - What is Retopology.md",
+    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/3 - 1 Getting Started.md",
+    "Pasted image 20260403222443.png",
+    "Pasted image 20260403221918.png",
+    "Pasted image 20260403221634.png",
     "Tips n Tricks/Organize Body and Clothing Unwraps with Mio3 UV.md",
-    "Pasted image 20260403184244.png",
+    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/Topo Examples/Four Fingered Hand.md",
+    "Screenshot 2026-04-03 220600.png",
+    "Screenshot 2026-04-03 220546.png",
+    "Screenshot 2026-04-03 220536.png",
+    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/Topo Examples",
+    "Tips n Tricks/E Topology Smooth.md",
     "Tips n Tricks/Weighted Minimum Stretch Unwrap.md",
-    "Pasted image 20260403183916.png",
     "VRC Character Book/Chapter 1 - Starting Up/3 - Housekeeping.md",
     "Tips n Tricks",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 2 - Blockout/2 - 2 Cleanup.md",
@@ -190,7 +202,6 @@
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 1 - Setting the Scene/1 - 1 Basic Transforms.md",
     "VRC Character Book/Chapter 1 - Starting Up/1 - Overview.md",
     "VRC Character Book/Chapter 1 - Starting Up/2 - Installing Blender Portable.md",
-    "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/0 - Retopo.md",
     "VRC Character Book/Chapter 1 - Starting Up/4 - Up Next.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Scene Modes.md",
     "consistency-report.md",
@@ -198,18 +209,10 @@
     "index.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Modifier Stack.md",
     "VRC Character Book/Chapter 2 - Your First Creature/Reference Topics/Mirror Modifier.md",
-    "Pasted image 20260403170618.png",
-    "Pasted image 20260403130751.png",
-    "Pasted image 20260403112550.png",
-    "Pasted image 20260401104152.png",
     "VRC Character Book/Chapter 2 - Your First Creature/Reference Topicss/Attachments",
     "VRC Character Book/Chapter 2 - Your First Creature/Exercise 3 - Retopo/Attachments",
     "VRC Character Book/Chapter 1 - Starting Up/Attachments",
-    "Pasted image 20260403170930.png",
-    "Pasted image 20260403170717.png",
-    "Pasted image 20260403170705.png",
     "category-folder/index.md",
-    "category-folder/Some note.md",
     "category-folder"
   ]
 }
